@@ -1,0 +1,48 @@
+.ResultsPage {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+}
+
+.FetchBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: medium;
+    word-wrap: break-word;
+    width: 100%;
+}
+
+
+.BoxInfo {
+    padding: 5px 10px; 
+    border: 2px solid white; 
+    border-radius: 20px;
+    margin: 5px;
+    width: 90%;
+  }
+
+
+.ResultsButtonBlock {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+
+.RedirectButton {
+    background-color: white;
+    width: 160px;
+    height: 40px;
+    border-radius: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+    color: #2A2A2A;
+}

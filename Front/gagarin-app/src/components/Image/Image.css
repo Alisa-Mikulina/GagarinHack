@@ -1,0 +1,23 @@
+.PhotoBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+}
+
+
+.RoundedImage {
+    border-radius: 3%;
+    height: auto;
+    width: 100%;
+}
+
+.PhotoWithBoxes {
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    max-width: 90%;
+}

@@ -1,0 +1,16 @@
+.FullHeader {
+    width: 100%;
+}
+
+.Header {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    white-space: nowrap;
+}
+
+.Rocket-logo {
+    padding-left: 2%;
+    padding-right: 2%;
+}

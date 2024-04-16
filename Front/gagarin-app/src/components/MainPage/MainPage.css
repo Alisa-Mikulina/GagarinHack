@@ -1,0 +1,41 @@
+.MainPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+
+.PageText {
+    padding-left: 2%;
+    padding-top: 3%;
+    color: white;
+    font-size: x-large;
+    text-align: left;
+    white-space: pre-wrap;
+}
+
+
+#FileInput {
+    display: none;
+}
+
+.UploadButton {
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.ButtonBlock {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+}
