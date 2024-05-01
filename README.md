@@ -40,7 +40,11 @@
 <br><br>
 
 <h2 align="center">✨&nbsp;&nbsp;Video Preview</h2>
-<img src="https://raw.githubusercontent.com/Alisa-Mikulina/GagarinHack/main/Readme%20Files/video.gif" alt="My Awesome GIF" width="300">
+<!-- Alternative approach for centering an image in Markdown -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alisa-Mikulina/GagarinHack/main/Readme%20Files/video.gif" alt="My Awesome GIF" width="300" align="center">
+</p>
+
 
 <br><br>
 
